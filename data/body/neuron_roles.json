@@ -1,0 +1,5712 @@
+{
+ "ADAL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) ADAL",
+  "receptors": 0,
+  "deg": 36,
+  "w_in": 33.0,
+  "w_out": 92.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADAR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) ADAR",
+  "receptors": 0,
+  "deg": 34,
+  "w_in": 46.0,
+  "w_out": 97.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADEL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) ADEL",
+  "receptors": 6,
+  "deg": 39,
+  "w_in": 39.0,
+  "w_out": 126.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADER": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) ADER",
+  "receptors": 6,
+  "deg": 36,
+  "w_in": 36.0,
+  "w_out": 85.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADFL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (Se) ADFL",
+  "receptors": 10,
+  "deg": 29,
+  "w_in": 39.0,
+  "w_out": 136.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADFR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (Se) ADFR",
+  "receptors": 10,
+  "deg": 38,
+  "w_in": 47.0,
+  "w_out": 202.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADLL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) ADLL",
+  "receptors": 15,
+  "deg": 33,
+  "w_in": 19.0,
+  "w_out": 148.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ADLR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) ADLR",
+  "receptors": 15,
+  "deg": 44,
+  "w_in": 55.0,
+  "w_out": 155.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AFDL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) AFDL",
+  "receptors": 6,
+  "deg": 17,
+  "w_in": 28.0,
+  "w_out": 36.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AFDR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) AFDR",
+  "receptors": 6,
+  "deg": 13,
+  "w_in": 46.0,
+  "w_out": 35.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIAL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) AIAL",
+  "receptors": 10,
+  "deg": 40,
+  "w_in": 195.0,
+  "w_out": 101.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIAR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) AIAR",
+  "receptors": 10,
+  "deg": 25,
+  "w_in": 188.0,
+  "w_out": 87.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIBL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) AIBL",
+  "receptors": 7,
+  "deg": 56,
+  "w_in": 260.0,
+  "w_out": 173.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIBR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AIBR",
+  "receptors": 8,
+  "deg": 55,
+  "w_in": 284.0,
+  "w_out": 126.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIML": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (In) AIML",
+  "receptors": 3,
+  "deg": 26,
+  "w_in": 20.0,
+  "w_out": 59.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIMR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (In) AIMR",
+  "receptors": 3,
+  "deg": 31,
+  "w_in": 17.0,
+  "w_out": 66.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AINL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) AINL",
+  "receptors": 0,
+  "deg": 21,
+  "w_in": 8.0,
+  "w_out": 47.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AINR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) AINR",
+  "receptors": 0,
+  "deg": 22,
+  "w_in": 7.0,
+  "w_out": 53.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIYL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) AIYL",
+  "receptors": 14,
+  "deg": 24,
+  "w_in": 121.0,
+  "w_out": 191.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIYR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) AIYR",
+  "receptors": 14,
+  "deg": 26,
+  "w_in": 130.0,
+  "w_out": 202.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIZL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) AIZL",
+  "receptors": 3,
+  "deg": 42,
+  "w_in": 216.0,
+  "w_out": 247.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AIZR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) AIZR",
+  "receptors": 3,
+  "deg": 34,
+  "w_in": 206.0,
+  "w_out": 187.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ALA": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) ALA",
+  "receptors": 3,
+  "deg": 12,
+  "w_in": 12.0,
+  "w_out": 25.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ALML": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ALML",
+  "receptors": 18,
+  "deg": 28,
+  "w_in": 20.0,
+  "w_out": 58.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ALMR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ALMR",
+  "receptors": 18,
+  "deg": 12,
+  "w_in": 8.0,
+  "w_out": 32.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ALNL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) ALNL",
+  "receptors": 3,
+  "deg": 12,
+  "w_in": 14.0,
+  "w_out": 21.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ALNR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) ALNR",
+  "receptors": 3,
+  "deg": 17,
+  "w_in": 23.0,
+  "w_out": 29.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AQR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) AQR",
+  "receptors": 8,
+  "deg": 29,
+  "w_in": 33.0,
+  "w_out": 84.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS1",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS10": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS10",
+  "receptors": 8,
+  "deg": 9,
+  "w_in": 18.0,
+  "w_out": 20.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS11": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS11",
+  "receptors": 8,
+  "deg": 8,
+  "w_in": 32.0,
+  "w_out": 24.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS2",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS3",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS4",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS5",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS6",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS7": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS7",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS8": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS8",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AS9": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) AS9",
+  "receptors": 8,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASEL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ASEL",
+  "receptors": 23,
+  "deg": 30,
+  "w_in": 37.0,
+  "w_out": 129.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASER": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ASER",
+  "receptors": 26,
+  "deg": 38,
+  "w_in": 78.0,
+  "w_out": 115.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASGL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (Se) ASGL",
+  "receptors": 8,
+  "deg": 11,
+  "w_in": 17.0,
+  "w_out": 67.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASGR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (Se) ASGR",
+  "receptors": 8,
+  "deg": 16,
+  "w_in": 26.0,
+  "w_out": 89.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASHL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ASHL",
+  "receptors": 17,
+  "deg": 30,
+  "w_in": 22.0,
+  "w_out": 141.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASHR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ASHR",
+  "receptors": 17,
+  "deg": 39,
+  "w_in": 40.0,
+  "w_out": 142.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASIL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) ASIL",
+  "receptors": 17,
+  "deg": 22,
+  "w_in": 17.0,
+  "w_out": 43.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASIR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) ASIR",
+  "receptors": 17,
+  "deg": 16,
+  "w_in": 6.0,
+  "w_out": 27.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASJL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) ASJL",
+  "receptors": 4,
+  "deg": 15,
+  "w_in": 13.0,
+  "w_out": 54.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASJR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) ASJR",
+  "receptors": 4,
+  "deg": 7,
+  "w_in": 11.0,
+  "w_out": 32.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASKL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ASKL",
+  "receptors": 9,
+  "deg": 14,
+  "w_in": 50.0,
+  "w_out": 48.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "ASKR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) ASKR",
+  "receptors": 9,
+  "deg": 18,
+  "w_in": 26.0,
+  "w_out": 55.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AUAL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) AUAL",
+  "receptors": 6,
+  "deg": 20,
+  "w_in": 50.0,
+  "w_out": 89.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AUAR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) AUAR",
+  "receptors": 6,
+  "deg": 20,
+  "w_in": 51.0,
+  "w_out": 80.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVAL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVAL",
+  "receptors": 9,
+  "deg": 79,
+  "w_in": 658.0,
+  "w_out": 106.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVAR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVAR",
+  "receptors": 9,
+  "deg": 72,
+  "w_in": 675.0,
+  "w_out": 123.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVBL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVBL",
+  "receptors": 6,
+  "deg": 58,
+  "w_in": 337.0,
+  "w_out": 49.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVBR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVBR",
+  "receptors": 6,
+  "deg": 55,
+  "w_in": 334.0,
+  "w_out": 37.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVDL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVDL",
+  "receptors": 7,
+  "deg": 52,
+  "w_in": 255.0,
+  "w_out": 110.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVDR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVDR",
+  "receptors": 7,
+  "deg": 60,
+  "w_in": 226.0,
+  "w_out": 126.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVEL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVEL",
+  "receptors": 6,
+  "deg": 52,
+  "w_in": 304.0,
+  "w_out": 78.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVER": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVER",
+  "receptors": 6,
+  "deg": 57,
+  "w_in": 294.0,
+  "w_out": 88.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVFL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVFL",
+  "receptors": 2,
+  "deg": 31,
+  "w_in": 45.0,
+  "w_out": 47.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVFR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVFR",
+  "receptors": 2,
+  "deg": 29,
+  "w_in": 36.0,
+  "w_out": 49.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVG": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVG",
+  "receptors": 7,
+  "deg": 31,
+  "w_in": 43.0,
+  "w_out": 53.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVHL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVHL",
+  "receptors": 3,
+  "deg": 38,
+  "w_in": 37.0,
+  "w_out": 45.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVHR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVHR",
+  "receptors": 3,
+  "deg": 34,
+  "w_in": 25.0,
+  "w_out": 45.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVJL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVJL",
+  "receptors": 2,
+  "deg": 40,
+  "w_in": 94.0,
+  "w_out": 33.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVJR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVJR",
+  "receptors": 2,
+  "deg": 41,
+  "w_in": 80.0,
+  "w_out": 56.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVKL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVKL",
+  "receptors": 1,
+  "deg": 26,
+  "w_in": 73.0,
+  "w_out": 35.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVKR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) AVKR",
+  "receptors": 1,
+  "deg": 29,
+  "w_in": 76.0,
+  "w_out": 37.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (MoIn) AVL",
+  "receptors": 1,
+  "deg": 26,
+  "w_in": 57.0,
+  "w_out": 43.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AVM": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) AVM",
+  "receptors": 3,
+  "deg": 20,
+  "w_in": 5.0,
+  "w_out": 87.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AWAL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) AWAL",
+  "receptors": 5,
+  "deg": 12,
+  "w_in": 18.0,
+  "w_out": 54.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AWAR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) AWAR",
+  "receptors": 5,
+  "deg": 24,
+  "w_in": 21.0,
+  "w_out": 93.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AWBL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) AWBL",
+  "receptors": 6,
+  "deg": 25,
+  "w_in": 28.0,
+  "w_out": 74.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AWBR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) AWBR",
+  "receptors": 6,
+  "deg": 23,
+  "w_in": 19.0,
+  "w_out": 40.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AWCL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) AWCL",
+  "receptors": 4,
+  "deg": 26,
+  "w_in": 57.0,
+  "w_out": 67.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "AWCR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) AWCR",
+  "receptors": 4,
+  "deg": 31,
+  "w_in": 62.0,
+  "w_out": 111.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "BAGL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) BAGL",
+  "receptors": 3,
+  "deg": 28,
+  "w_in": 36.0,
+  "w_out": 78.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "BAGR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) BAGR",
+  "receptors": 3,
+  "deg": 23,
+  "w_in": 36.0,
+  "w_out": 75.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "BDUL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) BDUL",
+  "receptors": 4,
+  "deg": 18,
+  "w_in": 28.0,
+  "w_out": 33.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "BDUR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) BDUR",
+  "receptors": 4,
+  "deg": 20,
+  "w_in": 31.0,
+  "w_out": 56.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "CANL": {
+  "role": "other",
+  "types": [
+   "unknown"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? () CANL",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "CANR": {
+  "role": "other",
+  "types": [
+   "unknown"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? () CANR",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "CEPDL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) CEPDL",
+  "receptors": 3,
+  "deg": 46,
+  "w_in": 41.0,
+  "w_out": 175.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "CEPDR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) CEPDR",
+  "receptors": 3,
+  "deg": 33,
+  "w_in": 26.0,
+  "w_out": 144.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "CEPVL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) CEPVL",
+  "receptors": 3,
+  "deg": 34,
+  "w_in": 44.0,
+  "w_out": 138.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "CEPVR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) CEPVR",
+  "receptors": 3,
+  "deg": 41,
+  "w_in": 60.0,
+  "w_out": 122.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA1",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA2",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA3",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA4",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA5",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA6",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA7": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA7",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA8": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA8",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DA9": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DA9",
+  "receptors": 6,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB1",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB2",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB3",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB4",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB5",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB6",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DB7": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) DB7",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DD1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) DD1",
+  "receptors": 3,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DD2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) DD2",
+  "receptors": 3,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DD3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) DD3",
+  "receptors": 3,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DD4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) DD4",
+  "receptors": 3,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DD5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) DD5",
+  "receptors": 3,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DD6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) DD6",
+  "receptors": 3,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DVA": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) DVA",
+  "receptors": 9,
+  "deg": 60,
+  "w_in": 116.0,
+  "w_out": 143.0,
+  "hub": true,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DVB": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (MoIn) DVB",
+  "receptors": 0,
+  "deg": 8,
+  "w_in": 2.0,
+  "w_out": 41.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "DVC": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) DVC",
+  "receptors": 4,
+  "deg": 30,
+  "w_in": 29.0,
+  "w_out": 108.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "FLPL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) FLPL",
+  "receptors": 10,
+  "deg": 21,
+  "w_in": 25.0,
+  "w_out": 230.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "FLPR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) FLPR",
+  "receptors": 10,
+  "deg": 19,
+  "w_in": 8.0,
+  "w_out": 169.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "HSNL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (Mo) HSNL",
+  "receptors": 7,
+  "deg": 39,
+  "w_in": 31.0,
+  "w_out": 85.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "HSNR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (Mo) HSNR",
+  "receptors": 7,
+  "deg": 44,
+  "w_in": 48.0,
+  "w_out": 51.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I1L": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) I1L",
+  "receptors": 5,
+  "deg": 15,
+  "w_in": 6.0,
+  "w_out": 38.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I1R": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) I1R",
+  "receptors": 5,
+  "deg": 15,
+  "w_in": 2.0,
+  "w_out": 32.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I2L": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (InSe) I2L",
+  "receptors": 5,
+  "deg": 13,
+  "w_in": 21.0,
+  "w_out": 59.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I2R": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (InSe) I2R",
+  "receptors": 5,
+  "deg": 18,
+  "w_in": 24.0,
+  "w_out": 78.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I3": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (InSe) I3",
+  "receptors": 3,
+  "deg": 19,
+  "w_in": 29.0,
+  "w_out": 20.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I4": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) I4",
+  "receptors": 1,
+  "deg": 18,
+  "w_in": 60.0,
+  "w_out": 66.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I5": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (InSe) I5",
+  "receptors": 0,
+  "deg": 23,
+  "w_in": 20.0,
+  "w_out": 56.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "I6": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) I6",
+  "receptors": 3,
+  "deg": 11,
+  "w_in": 6.0,
+  "w_out": 90.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL1DL": {
+  "role": "polymodal",
+  "types": [
+   "interneuron",
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoInSe) IL1DL",
+  "receptors": 4,
+  "deg": 13,
+  "w_in": 56.0,
+  "w_out": 32.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL1DR": {
+  "role": "polymodal",
+  "types": [
+   "interneuron",
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoInSe) IL1DR",
+  "receptors": 4,
+  "deg": 21,
+  "w_in": 64.0,
+  "w_out": 95.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL1L": {
+  "role": "polymodal",
+  "types": [
+   "interneuron",
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoInSe) IL1L",
+  "receptors": 4,
+  "deg": 21,
+  "w_in": 33.0,
+  "w_out": 76.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL1R": {
+  "role": "polymodal",
+  "types": [
+   "interneuron",
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoInSe) IL1R",
+  "receptors": 4,
+  "deg": 25,
+  "w_in": 35.0,
+  "w_out": 77.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL1VL": {
+  "role": "polymodal",
+  "types": [
+   "interneuron",
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoInSe) IL1VL",
+  "receptors": 4,
+  "deg": 17,
+  "w_in": 60.0,
+  "w_out": 66.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL1VR": {
+  "role": "polymodal",
+  "types": [
+   "interneuron",
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoInSe) IL1VR",
+  "receptors": 4,
+  "deg": 16,
+  "w_in": 63.0,
+  "w_out": 77.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL2DL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) IL2DL",
+  "receptors": 4,
+  "deg": 17,
+  "w_in": 4.0,
+  "w_out": 87.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL2DR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) IL2DR",
+  "receptors": 4,
+  "deg": 16,
+  "w_in": 14.0,
+  "w_out": 115.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL2L": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) IL2L",
+  "receptors": 4,
+  "deg": 22,
+  "w_in": 15.0,
+  "w_out": 107.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL2R": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) IL2R",
+  "receptors": 4,
+  "deg": 21,
+  "w_in": 11.0,
+  "w_out": 87.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL2VL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) IL2VL",
+  "receptors": 4,
+  "deg": 13,
+  "w_in": 4.0,
+  "w_out": 103.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "IL2VR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Se) IL2VR",
+  "receptors": 4,
+  "deg": 19,
+  "w_in": 14.0,
+  "w_out": 150.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "LUAL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) LUAL",
+  "receptors": 2,
+  "deg": 16,
+  "w_in": 22.0,
+  "w_out": 92.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "LUAR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) LUAR",
+  "receptors": 2,
+  "deg": 18,
+  "w_in": 29.0,
+  "w_out": 93.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) M1",
+  "receptors": 3,
+  "deg": 13,
+  "w_in": 17.0,
+  "w_out": 24.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M2L": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) M2L",
+  "receptors": 1,
+  "deg": 12,
+  "w_in": 19.0,
+  "w_out": 16.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M2R": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) M2R",
+  "receptors": 1,
+  "deg": 8,
+  "w_in": 7.0,
+  "w_out": 8.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M3L": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoSe) M3L",
+  "receptors": 3,
+  "deg": 12,
+  "w_in": 60.0,
+  "w_out": 1.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M3R": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoSe) M3R",
+  "receptors": 3,
+  "deg": 11,
+  "w_in": 63.0,
+  "w_out": 2.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) M4",
+  "receptors": 3,
+  "deg": 13,
+  "w_in": 69.0,
+  "w_out": 24.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "M5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) M5",
+  "receptors": 2,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "MCL": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) MCL",
+  "receptors": 3,
+  "deg": 6,
+  "w_in": 11.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "MCR": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) MCR",
+  "receptors": 3,
+  "deg": 3,
+  "w_in": 8.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "MI": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (MoIn) MI",
+  "receptors": 0,
+  "deg": 16,
+  "w_in": 15.0,
+  "w_out": 24.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "NSML": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (MoSe) NSML",
+  "receptors": 7,
+  "deg": 15,
+  "w_in": 89.0,
+  "w_out": 43.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "NSMR": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (MoSe) NSMR",
+  "receptors": 7,
+  "deg": 15,
+  "w_in": 88.0,
+  "w_out": 33.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "OLLL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) OLLL",
+  "receptors": 2,
+  "deg": 26,
+  "w_in": 41.0,
+  "w_out": 169.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "OLLR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) OLLR",
+  "receptors": 2,
+  "deg": 42,
+  "w_in": 68.0,
+  "w_out": 162.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "OLQDL": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (InSe) OLQDL",
+  "receptors": 7,
+  "deg": 15,
+  "w_in": 62.0,
+  "w_out": 39.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "OLQDR": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (InSe) OLQDR",
+  "receptors": 7,
+  "deg": 18,
+  "w_in": 49.0,
+  "w_out": 28.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "OLQVL": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (InSe) OLQVL",
+  "receptors": 7,
+  "deg": 20,
+  "w_in": 80.0,
+  "w_out": 36.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "OLQVR": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (InSe) OLQVR",
+  "receptors": 7,
+  "deg": 22,
+  "w_in": 71.0,
+  "w_out": 90.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PDA": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) PDA",
+  "receptors": 4,
+  "deg": 5,
+  "w_in": 2.0,
+  "w_out": 33.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PDB": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (MoIn) PDB",
+  "receptors": 1,
+  "deg": 3,
+  "w_in": 2.0,
+  "w_out": 20.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PDEL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) PDEL",
+  "receptors": 1,
+  "deg": 2,
+  "w_in": 5.0,
+  "w_out": 1.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PDER": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Dopamine",
+  "atlas_nt": [
+   "Dopamine"
+  ],
+  "marker": "+ (Se) PDER",
+  "receptors": 1,
+  "deg": 6,
+  "w_in": 3.0,
+  "w_out": 14.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PHAL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PHAL",
+  "receptors": 9,
+  "deg": 12,
+  "w_in": 14.0,
+  "w_out": 57.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PHAR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PHAR",
+  "receptors": 9,
+  "deg": 13,
+  "w_in": 15.0,
+  "w_out": 50.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PHBL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (Se) PHBL",
+  "receptors": 7,
+  "deg": 15,
+  "w_in": 17.0,
+  "w_out": 171.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PHBR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate",
+   "Serotonin"
+  ],
+  "marker": "+ (Se) PHBR",
+  "receptors": 7,
+  "deg": 12,
+  "w_in": 22.0,
+  "w_out": 152.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PHCL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PHCL",
+  "receptors": 1,
+  "deg": 10,
+  "w_in": 6.0,
+  "w_out": 37.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PHCR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PHCR",
+  "receptors": 1,
+  "deg": 11,
+  "w_in": 6.0,
+  "w_out": 73.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PLML": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PLML",
+  "receptors": 9,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PLMR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PLMR",
+  "receptors": 9,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PLNL": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) PLNL",
+  "receptors": 1,
+  "deg": 14,
+  "w_in": 34.0,
+  "w_out": 45.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PLNR": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) PLNR",
+  "receptors": 1,
+  "deg": 8,
+  "w_in": 17.0,
+  "w_out": 34.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PQR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PQR",
+  "receptors": 9,
+  "deg": 17,
+  "w_in": 19.0,
+  "w_out": 97.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVCL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) PVCL",
+  "receptors": 2,
+  "deg": 55,
+  "w_in": 281.0,
+  "w_out": 126.0,
+  "hub": true,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVCR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) PVCR",
+  "receptors": 2,
+  "deg": 55,
+  "w_in": 260.0,
+  "w_out": 137.0,
+  "hub": true,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVDL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PVDL",
+  "receptors": 14,
+  "deg": 16,
+  "w_in": 7.0,
+  "w_out": 116.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVDR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) PVDR",
+  "receptors": 14,
+  "deg": 12,
+  "w_in": 17.0,
+  "w_out": 108.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVM": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Se) PVM",
+  "receptors": 9,
+  "deg": 7,
+  "w_in": 1.0,
+  "w_out": 26.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVNL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (MoIn) PVNL",
+  "receptors": 0,
+  "deg": 31,
+  "w_in": 26.0,
+  "w_out": 82.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVNR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (MoIn) PVNR",
+  "receptors": 0,
+  "deg": 36,
+  "w_in": 38.0,
+  "w_out": 59.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVPL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) PVPL",
+  "receptors": 2,
+  "deg": 28,
+  "w_in": 48.0,
+  "w_out": 64.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVPR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) PVPR",
+  "receptors": 2,
+  "deg": 33,
+  "w_in": 25.0,
+  "w_out": 74.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVQL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) PVQL",
+  "receptors": 12,
+  "deg": 18,
+  "w_in": 48.0,
+  "w_out": 38.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVQR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) PVQR",
+  "receptors": 12,
+  "deg": 20,
+  "w_in": 33.0,
+  "w_out": 37.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) PVR",
+  "receptors": 2,
+  "deg": 34,
+  "w_in": 36.0,
+  "w_out": 132.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVT": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) PVT",
+  "receptors": 4,
+  "deg": 26,
+  "w_in": 30.0,
+  "w_out": 60.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVWL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) PVWL",
+  "receptors": 3,
+  "deg": 12,
+  "w_in": 20.0,
+  "w_out": 5.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "PVWR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) PVWR",
+  "receptors": 3,
+  "deg": 10,
+  "w_in": 8.0,
+  "w_out": 5.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIAL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) RIAL",
+  "receptors": 4,
+  "deg": 63,
+  "w_in": 434.0,
+  "w_out": 400.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIAR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) RIAR",
+  "receptors": 4,
+  "deg": 62,
+  "w_in": 424.0,
+  "w_out": 450.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIBL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIBL",
+  "receptors": 2,
+  "deg": 40,
+  "w_in": 218.0,
+  "w_out": 82.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIBR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIBR",
+  "receptors": 2,
+  "deg": 41,
+  "w_in": 226.0,
+  "w_out": 61.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RICL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Octopamine",
+  "atlas_nt": [
+   "Octopamine"
+  ],
+  "marker": "+ (In) RICL",
+  "receptors": 6,
+  "deg": 37,
+  "w_in": 88.0,
+  "w_out": 94.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RICR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Octopamine",
+  "atlas_nt": [
+   "Octopamine"
+  ],
+  "marker": "+ (In) RICR",
+  "receptors": 6,
+  "deg": 42,
+  "w_in": 105.0,
+  "w_out": 92.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RID": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (MoIn) RID",
+  "receptors": 3,
+  "deg": 14,
+  "w_in": 52.0,
+  "w_out": 6.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIFL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIFL",
+  "receptors": 2,
+  "deg": 17,
+  "w_in": 30.0,
+  "w_out": 56.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIFR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIFR",
+  "receptors": 2,
+  "deg": 35,
+  "w_in": 55.0,
+  "w_out": 83.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIGL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) RIGL",
+  "receptors": 1,
+  "deg": 39,
+  "w_in": 89.0,
+  "w_out": 106.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIGR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (In) RIGR",
+  "receptors": 1,
+  "deg": 34,
+  "w_in": 109.0,
+  "w_out": 89.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIH": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Serotonin",
+  "atlas_nt": [
+   "Serotonin"
+  ],
+  "marker": "+ (In) RIH",
+  "receptors": 0,
+  "deg": 53,
+  "w_in": 110.0,
+  "w_out": 266.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIML": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine",
+   "Glutamate",
+   "Tyramine"
+  ],
+  "marker": "+ (MoIn) RIML",
+  "receptors": 3,
+  "deg": 49,
+  "w_in": 208.0,
+  "w_out": 177.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIMR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine",
+   "Glutamate",
+   "Tyramine"
+  ],
+  "marker": "+ (MoIn) RIMR",
+  "receptors": 3,
+  "deg": 45,
+  "w_in": 249.0,
+  "w_out": 151.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIPL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIPL",
+  "receptors": 0,
+  "deg": 20,
+  "w_in": 187.0,
+  "w_out": 7.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIPR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIPR",
+  "receptors": 0,
+  "deg": 22,
+  "w_in": 232.0,
+  "w_out": 9.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RIR",
+  "receptors": 0,
+  "deg": 47,
+  "w_in": 70.0,
+  "w_out": 103.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIS": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (In) RIS",
+  "receptors": 3,
+  "deg": 45,
+  "w_in": 40.0,
+  "w_out": 184.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIVL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (MoIn) RIVL",
+  "receptors": 2,
+  "deg": 23,
+  "w_in": 42.0,
+  "w_out": 44.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RIVR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (MoIn) RIVR",
+  "receptors": 2,
+  "deg": 25,
+  "w_in": 35.0,
+  "w_out": 52.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMDDL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) RMDDL",
+  "receptors": 3,
+  "deg": 35,
+  "w_in": 309.0,
+  "w_out": 41.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMDDR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) RMDDR",
+  "receptors": 3,
+  "deg": 24,
+  "w_in": 290.0,
+  "w_out": 30.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMDL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) RMDL",
+  "receptors": 3,
+  "deg": 53,
+  "w_in": 180.0,
+  "w_out": 95.0,
+  "hub": true,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMDR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) RMDR",
+  "receptors": 3,
+  "deg": 42,
+  "w_in": 200.0,
+  "w_out": 71.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMDVL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) RMDVL",
+  "receptors": 3,
+  "deg": 31,
+  "w_in": 277.0,
+  "w_out": 58.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMDVR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) RMDVR",
+  "receptors": 3,
+  "deg": 36,
+  "w_in": 271.0,
+  "w_out": 66.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMED": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) RMED",
+  "receptors": 6,
+  "deg": 20,
+  "w_in": 74.0,
+  "w_out": 8.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMEL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) RMEL",
+  "receptors": 6,
+  "deg": 16,
+  "w_in": 73.0,
+  "w_out": 5.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMER": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) RMER",
+  "receptors": 6,
+  "deg": 20,
+  "w_in": 89.0,
+  "w_out": 12.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMEV": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) RMEV",
+  "receptors": 6,
+  "deg": 26,
+  "w_in": 93.0,
+  "w_out": 10.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMFL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Mo) RMFL",
+  "receptors": 1,
+  "deg": 24,
+  "w_in": 36.0,
+  "w_out": 49.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMFR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Mo) RMFR",
+  "receptors": 1,
+  "deg": 16,
+  "w_in": 47.0,
+  "w_out": 26.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMGL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RMGL",
+  "receptors": 1,
+  "deg": 50,
+  "w_in": 57.0,
+  "w_out": 91.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMGR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (In) RMGR",
+  "receptors": 1,
+  "deg": 41,
+  "w_in": 40.0,
+  "w_out": 100.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMHL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Mo) RMHL",
+  "receptors": 1,
+  "deg": 26,
+  "w_in": 70.0,
+  "w_out": 11.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "RMHR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (Mo) RMHR",
+  "receptors": 1,
+  "deg": 24,
+  "w_in": 82.0,
+  "w_out": 27.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SAADL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SAADL",
+  "receptors": 1,
+  "deg": 27,
+  "w_in": 57.0,
+  "w_out": 59.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SAADR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SAADR",
+  "receptors": 1,
+  "deg": 28,
+  "w_in": 68.0,
+  "w_out": 87.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SAAVL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SAAVL",
+  "receptors": 0,
+  "deg": 25,
+  "w_in": 59.0,
+  "w_out": 136.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SAAVR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SAAVR",
+  "receptors": 0,
+  "deg": 26,
+  "w_in": 45.0,
+  "w_out": 109.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SABD": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SABD",
+  "receptors": 2,
+  "deg": 15,
+  "w_in": 46.0,
+  "w_out": 8.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SABVL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SABVL",
+  "receptors": 2,
+  "deg": 10,
+  "w_in": 51.0,
+  "w_out": 5.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SABVR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SABVR",
+  "receptors": 2,
+  "deg": 9,
+  "w_in": 40.0,
+  "w_out": 4.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SDQL": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) SDQL",
+  "receptors": 5,
+  "deg": 25,
+  "w_in": 31.0,
+  "w_out": 59.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SDQR": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (InSe) SDQR",
+  "receptors": 5,
+  "deg": 17,
+  "w_in": 27.0,
+  "w_out": 113.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIADL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIADL",
+  "receptors": 5,
+  "deg": 19,
+  "w_in": 53.0,
+  "w_out": 52.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIADR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIADR",
+  "receptors": 5,
+  "deg": 22,
+  "w_in": 58.0,
+  "w_out": 46.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIAVL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIAVL",
+  "receptors": 5,
+  "deg": 18,
+  "w_in": 76.0,
+  "w_out": 26.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIAVR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIAVR",
+  "receptors": 5,
+  "deg": 20,
+  "w_in": 77.0,
+  "w_out": 25.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIBDL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIBDL",
+  "receptors": 1,
+  "deg": 13,
+  "w_in": 38.0,
+  "w_out": 16.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIBDR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIBDR",
+  "receptors": 1,
+  "deg": 14,
+  "w_in": 67.0,
+  "w_out": 12.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIBVL": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIBVL",
+  "receptors": 1,
+  "deg": 21,
+  "w_in": 73.0,
+  "w_out": 31.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SIBVR": {
+  "role": "motor",
+  "types": [
+   "interneuron",
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoIn) SIBVR",
+  "receptors": 1,
+  "deg": 21,
+  "w_in": 56.0,
+  "w_out": 37.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMBDL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMBDL",
+  "receptors": 1,
+  "deg": 26,
+  "w_in": 81.0,
+  "w_out": 66.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMBDR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMBDR",
+  "receptors": 1,
+  "deg": 31,
+  "w_in": 99.0,
+  "w_out": 86.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMBVL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMBVL",
+  "receptors": 0,
+  "deg": 31,
+  "w_in": 88.0,
+  "w_out": 53.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMBVR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMBVR",
+  "receptors": 0,
+  "deg": 31,
+  "w_in": 95.0,
+  "w_out": 56.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMDDL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMDDL",
+  "receptors": 2,
+  "deg": 44,
+  "w_in": 220.0,
+  "w_out": 95.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMDDR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMDDR",
+  "receptors": 2,
+  "deg": 45,
+  "w_in": 238.0,
+  "w_out": 71.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMDVL": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMDVL",
+  "receptors": 2,
+  "deg": 45,
+  "w_in": 169.0,
+  "w_out": 163.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "SMDVR": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) SMDVR",
+  "receptors": 2,
+  "deg": 39,
+  "w_in": 171.0,
+  "w_out": 139.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URADL": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) URADL",
+  "receptors": 0,
+  "deg": 9,
+  "w_in": 32.0,
+  "w_out": 27.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URADR": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) URADR",
+  "receptors": 0,
+  "deg": 9,
+  "w_in": 21.0,
+  "w_out": 21.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URAVL": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) URAVL",
+  "receptors": 0,
+  "deg": 20,
+  "w_in": 33.0,
+  "w_out": 57.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URAVR": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) URAVR",
+  "receptors": 0,
+  "deg": 20,
+  "w_in": 27.0,
+  "w_out": 42.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URBL": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) URBL",
+  "receptors": 0,
+  "deg": 23,
+  "w_in": 17.0,
+  "w_out": 64.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URBR": {
+  "role": "inter",
+  "types": [
+   "interneuron"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (In) URBR",
+  "receptors": 0,
+  "deg": 32,
+  "w_in": 37.0,
+  "w_out": 71.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URXL": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (InSe) URXL",
+  "receptors": 10,
+  "deg": 42,
+  "w_in": 73.0,
+  "w_out": 92.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URXR": {
+  "role": "sensory",
+  "types": [
+   "interneuron",
+   "sensory"
+  ],
+  "nt": "",
+  "atlas_nt": [],
+  "marker": "? (InSe) URXR",
+  "receptors": 10,
+  "deg": 47,
+  "w_in": 75.0,
+  "w_out": 131.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URYDL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) URYDL",
+  "receptors": 3,
+  "deg": 18,
+  "w_in": 22.0,
+  "w_out": 65.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URYDR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) URYDR",
+  "receptors": 3,
+  "deg": 19,
+  "w_in": 9.0,
+  "w_out": 62.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URYVL": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) URYVL",
+  "receptors": 3,
+  "deg": 28,
+  "w_in": 16.0,
+  "w_out": 143.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "URYVR": {
+  "role": "sensory",
+  "types": [
+   "sensory"
+  ],
+  "nt": "Glutamate",
+  "atlas_nt": [
+   "Glutamate"
+  ],
+  "marker": "+ (Se) URYVR",
+  "receptors": 3,
+  "deg": 25,
+  "w_in": 20.0,
+  "w_out": 138.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA1",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA10": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA10",
+  "receptors": 5,
+  "deg": 8,
+  "w_in": 18.0,
+  "w_out": 8.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA11": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA11",
+  "receptors": 5,
+  "deg": 14,
+  "w_in": 35.0,
+  "w_out": 15.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA12": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA12",
+  "receptors": 5,
+  "deg": 24,
+  "w_in": 61.0,
+  "w_out": 52.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA2",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA3",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA4",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA5",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA6",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA7": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA7",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA8": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA8",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VA9": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VA9",
+  "receptors": 5,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB1": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB1",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB10": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB10",
+  "receptors": 4,
+  "deg": 6,
+  "w_in": 7.0,
+  "w_out": 17.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB11": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB11",
+  "receptors": 4,
+  "deg": 11,
+  "w_in": 11.0,
+  "w_out": 32.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB2": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB2",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB3": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB3",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB4": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB4",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB5": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB5",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB6": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB6",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB7": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB7",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB8": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB8",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VB9": {
+  "role": "polymodal",
+  "types": [
+   "motor",
+   "sensory"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (MoSe) VB9",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VC1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VC1",
+  "receptors": 1,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VC2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VC2",
+  "receptors": 1,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VC3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VC3",
+  "receptors": 1,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VC4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine",
+   "Serotonin"
+  ],
+  "marker": "+ (Mo) VC4",
+  "receptors": 1,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VC5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine",
+   "Serotonin"
+  ],
+  "marker": "+ (Mo) VC5",
+  "receptors": 1,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VC6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "Acetylcholine",
+  "atlas_nt": [
+   "Acetylcholine"
+  ],
+  "marker": "+ (Mo) VC6",
+  "receptors": 1,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD1": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD1",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD10": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD10",
+  "receptors": 4,
+  "deg": 4,
+  "w_in": 15.0,
+  "w_out": 2.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD11": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD11",
+  "receptors": 4,
+  "deg": 9,
+  "w_in": 35.0,
+  "w_out": 6.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD12": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD12",
+  "receptors": 4,
+  "deg": 15,
+  "w_in": 69.0,
+  "w_out": 17.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD13": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD13",
+  "receptors": 4,
+  "deg": 12,
+  "w_in": 61.0,
+  "w_out": 16.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD2": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD2",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD3": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD3",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD4": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD4",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD5": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD5",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "голова",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD6": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD6",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD7": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD7",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD8": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD8",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "середина",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ },
+ "VD9": {
+  "role": "motor",
+  "types": [
+   "motor"
+  ],
+  "nt": "GABA",
+  "atlas_nt": [
+   "GABA"
+  ],
+  "marker": "- (Mo) VD9",
+  "receptors": 4,
+  "deg": 0,
+  "w_in": 0.0,
+  "w_out": 0.0,
+  "hub": false,
+  "zone": "хвост",
+  "source": "OpenWorm owmeta v0.12.3 (owmeta_cache.json) + Cook2019 herm_full_edgelist",
+  "in_atlas": true
+ }
+}

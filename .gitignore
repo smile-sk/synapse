@@ -1,0 +1,22 @@
+# runtime state, secrets, live data - never in git
+data/*
+!data/body/
+data/body/*
+!data/body/worm.json
+!data/body/neuron_roles.json
+
+# local models (large binaries)
+models/
+
+# backups of previous versions
+backups/
+
+# logs and runtime artifacts
+logs/
+*.log
+.last_test_pid
+_pytest_run*.log
+
+__pycache__/
+*.pyc
+.pytest_cache/
